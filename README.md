@@ -10,7 +10,7 @@ Dentro de las principales herramientas usadas se destacan las siguientes:
 
 plotly.py: es una biblioteca de gráficos interactiva, de código abierto y basada en navegador para Python.
 
-GeoJSON: es un formato estándar de diseñado para representar características geográficas simples, junto con sus atributos no espaciales.
+GeoJSON: es un formato estándar, diseñado para representar características geográficas simples, junto con sus atributos no espaciales.
 
 Mapbox:  es una plataforma de mapeo de código abierto para mapas de diseño personalizado.
 
